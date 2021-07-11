@@ -1,6 +1,6 @@
 ﻿## Radio Button List
 
-### Used interally by
+### Used internally by
 
 Radio Button List is a cornerstone of Contentment, primarily used by Data List providers.
 

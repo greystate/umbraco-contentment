@@ -1,6 +1,6 @@
 ﻿## Cascading Dropdown List
 
-### Used interally by
+### Used internally by
 
 Cascading Dropdown List is currently used by Data List's Enum data source configuration editor.
 

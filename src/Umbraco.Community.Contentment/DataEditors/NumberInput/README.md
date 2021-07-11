@@ -1,6 +1,6 @@
 ﻿## Number Input
 
-### Used interally by
+### Used internally by
 
 Number Input is currently used by...
 

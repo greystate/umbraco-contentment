@@ -1,6 +1,6 @@
 ﻿## Checkbox List
 
-### Used interally by
+### Used internally by
 
 Checkbox List is a cornerstone of Contentment, primarily used by Data List providers.
 

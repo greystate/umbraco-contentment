@@ -1,6 +1,6 @@
 ﻿## Dropdown List
 
-### Used interally by
+### Used internally by
 
 Dropdown List is a cornerstone of Contentment, primarily used by Data List providers.
 

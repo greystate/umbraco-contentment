@@ -1,6 +1,6 @@
 ﻿## Read Only
 
-### Used interally by
+### Used internally by
 
 This is more of a container for read-only functionality. The files in this component are used by...
 
